@@ -37,9 +37,9 @@
 
 ### 다운로드 및 설치
 
-1.  [Releases](https://www.google.com/search?q=%EB%A7%81%ED%81%AC_%EB%84%A3%EA%B8%B0) 페이지에서 운영체제에 맞는 설치 파일(`.dmg` 또는 `.exe`)을 다운로드합니다.
+1.  [Releases](https://github.com/CAUCSE-25-1-Capstone-Design/jpm-installer/releases/tag/JPM) 페이지에서 운영체제에 맞는 설치 파일(`.dmg` 또는 `.exe`)을 다운로드합니다.
 2.  설치 파일을 실행하여 애플리케이션을 설치합니다.
-3.  **(macOS의 경우)** 앱을 `Applications` 폴더로 드래그하여 설치합니다.
+3.  **(macOS의 경우)** 앱을 `Applications` 폴더로 드래그하여 설치합니다. 이때 경고가 나온다면 xattr -cr /Applications/JPM.app 명령어를 사용하세요.
 
 ### 초기 설정 (Getting Started)
 
