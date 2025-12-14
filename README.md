@@ -6,7 +6,8 @@
 
 "JUnit 설치해줘", "이 프로젝트 실행해"와 같이 채팅하듯 명령하면, 내장된 GPT 엔진이 의도를 파악하여 자동으로 작업을 수행합니다.
 
-*(여기에 실제 구동 스크린샷을 넣으면 좋습니다)*
+<img width="629" height="490" alt="image" src="https://github.com/user-attachments/assets/53edfb03-778c-4308-8cde-be2e3502cc0b" />
+
 
 ## ✨ 주요 기능 (Key Features)
 
